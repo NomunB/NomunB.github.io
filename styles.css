@@ -169,23 +169,23 @@ section {
 }
 
 .section-a {
-	background-image: url('../images/section-a.webp');
+	background-image: url('./images/section-a.webp');
 }
 
 .section-b {
-	background-image: url('../images/section-b.webp');
+	background-image: url('./images/section-b.webp');
 }
 
 .section-c {
-	background-image: url('../images/section-c.webp');
+	background-image: url('./images/section-c.webp');
 }
 
 .section-d {
-	background-image: url('../images/section-d.webp');
+	background-image: url('./images/section-d.webp');
 }
 
 .section-e {
-	background-image: url('../images/section-e.webp');
+	background-image: url('./images/section-e.webp');
 }
 
 .btn {
